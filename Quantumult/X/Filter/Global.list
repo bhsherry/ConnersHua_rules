@@ -1,4 +1,6 @@
 # (DNS Cache Pollution Protection)
+# > ao3
+DOMAIN-SUFFIX,archiveofourown.org,PROXY
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
