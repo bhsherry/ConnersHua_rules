@@ -725,14 +725,17 @@ Rule:
 - DOMAIN-SUFFIX,youtube.com,GlobalMedia
 - DOMAIN,youtubei.googleapis.com,GlobalMedia
 
-# (HKMTMedia)
-# > 愛奇藝台灣站
-- DOMAIN,cache.video.iqiyi.com,HKMTMedia
-# > bilibili
-- DOMAIN-SUFFIX,bilibili.com,HKMTMedia
-- DOMAIN,upos-hz-mirrorakam.akamaized.net,HKMTMedia
 
 # (DNS Cache Pollution Protection)
+# > 自用机场
+- DOMAIN-KEYWORD,n3ro,PROXY
+- DOMAIN-KEYWORD,yoyu,PROXY
+- DOMAIN-KEYWORD,928,PROXY
+- DOMAIN-KEYWORD,conair,PROXY
+- DOMAIN-KEYWORD,nyancat,PROXY
+- DOMAIN-KEYWORD,ytoo,PROXY
+# >ao3
+- DOMAIN-SUFFIX,archiveofourown.org,PROXY
 # > Google
 - DOMAIN-SUFFIX,ampproject.org,PROXY
 - DOMAIN-SUFFIX,appspot.com,PROXY
