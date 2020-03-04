@@ -1,6 +1,28 @@
 # (DNS Cache Pollution Protection)
 # > ao3
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
+# > chaos
+DOMAIN-KEYWORD,axax,PROXY
+DOMAIN-KEYWORD,bxbx,PROXY
+DOMAIN-KEYWORD,limbopro,PROXY
+DOMAIN-KEYWORD,wikimedia,PROXY
+DOMAIN-KEYWORD,wikipedia,PROXY
+DOMAIN-KEYWORD,notion,PROXY
+DOMAIN-KEYWORD,hm,PROXY
+DOMAIN-SUFFIX,v2ex.com,PROXY 
+#DOMAIN-SUFFIX,p48-buy.itunes.apple.com,PROXY
+
+# > 机场
+DOMAIN-KEYWORD,928,PROXY
+DOMAIN-KEYWORD,yoyu,PROXY
+DOMAIN-KEYWORD,nyancat,PROXY
+DOMAIN-KEYWORD,n3ro,PROXY
+DOMAIN-KEYWORD,ytoo,PROXY
+DOMAIN-KEYWORD,boslife,PROXY
+DOMAIN-KEYWORD,conair,PROXY
+
+
+#----------------------------------------#
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
