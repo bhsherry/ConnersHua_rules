@@ -446,6 +446,7 @@ USER-AGENT,Roam*,PROXY
 DOMAIN,testflight.apple.com,PROXY
 # > apps update
 DOMAIN,p14-buy.itunes.apple.com,PROXY
+DOMAIN,p48-buy.itunes.apple.com,PROXY
 # >> Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re,PROXY
 # >> iBooks Store download
