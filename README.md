@@ -1,7 +1,9 @@
+*本项目fork自神机规则，维护自用*
 *Good Luck Have Fun*
 
-## 感谢
-
+## 特别鸣谢
+- [ConnersHua](https://github.com/ConnersHua)
+### 感谢
 - [lhie1](https://github.com/lhie1)
 - Lison Bin
 - [linjiacheng](https://github.com/linjiacheng)
