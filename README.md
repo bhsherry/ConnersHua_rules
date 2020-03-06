@@ -1,4 +1,4 @@
-本项目fork(https://github.com/ConnersHua/Profiles)，维护自用
+本项目fork(https://github.com/ConnersHua/Profiles) ，维护自用
 *Good Luck Have Fun*
 
 ## 特别鸣谢
