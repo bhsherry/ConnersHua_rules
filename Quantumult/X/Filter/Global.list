@@ -1,6 +1,11 @@
 # (DNS Cache Pollution Protection)
 # > ao3
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
+# > moegirl
+DOMAIN-SUFFIX,moetransit.com,PROXY
+DOMAIN-SUFFIX,mengniang.org,PROXY
+DOMAIN-SUFFIX,yuri.moe,PROXY
+DOMAIN-SUFFIX,moegirl.org,PROXY
 # > chaos
 DOMAIN-KEYWORD,axax,PROXY
 DOMAIN-KEYWORD,bxbx,PROXY
