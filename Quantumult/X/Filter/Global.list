@@ -1,4 +1,3 @@
-# (DNS Cache Pollution Protection)
 # > ao3
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
 # > moegirl
@@ -15,8 +14,9 @@ DOMAIN-KEYWORD,wikipedia,PROXY
 DOMAIN-KEYWORD,notion,PROXY
 DOMAIN-KEYWORD,hm,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY 
-#DOMAIN-SUFFIX,p48-buy.itunes.apple.com,PROXY
-
+# > apps update
+DOMAIN,p14-buy.itunes.apple.com,PROXY
+#DOMAIN,p48-buy.itunes.apple.com,PROXY
 # > 机场
 DOMAIN-SUFFIX,928.plus,PROXY
 DOMAIN-SUFFIX,yoyu.dev,PROXY
@@ -26,8 +26,7 @@ DOMAIN-SUFFIX,nyancat.net,PROXY
 DOMAIN-SUFFIX,ytoo.li,PROXY
 DOMAIN-SUFFIX,conair.me,PROXY
 
-
-#----------------------------------------#
+# (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
@@ -449,9 +448,6 @@ USER-AGENT,Roam*,PROXY
 # > Apple
 # >> TestFlight
 DOMAIN,testflight.apple.com,PROXY
-# > apps update
-DOMAIN,p14-buy.itunes.apple.com,PROXY
-DOMAIN,p48-buy.itunes.apple.com,PROXY
 # >> Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re,PROXY
 # >> iBooks Store download
