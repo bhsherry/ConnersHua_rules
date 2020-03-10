@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
 # > adblock for safari
 DOMAIN-SUFFIX,adblockcdn.com,PROXY
+DOMAIN-SUFFIX,getadblock.com,PROXY
 # > moegirl
 DOMAIN-SUFFIX,moetransit.com,PROXY
 DOMAIN-SUFFIX,mengniang.org,PROXY
