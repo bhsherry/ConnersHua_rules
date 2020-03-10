@@ -16,7 +16,7 @@ DOMAIN-KEYWORD,hm,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY 
 # > apps update
 DOMAIN,p14-buy.itunes.apple.com,PROXY
-#DOMAIN,p48-buy.itunes.apple.com,PROXY
+DOMAIN,p48-buy.itunes.apple.com,PROXY
 # > 机场
 DOMAIN-SUFFIX,928.plus,PROXY
 DOMAIN-SUFFIX,yoyu.dev,PROXY
