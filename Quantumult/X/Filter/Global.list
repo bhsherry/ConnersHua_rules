@@ -24,19 +24,20 @@ DOMAIN-KEYWORD,wikipedia,PROXY
 DOMAIN-KEYWORD,notion,PROXY
 DOMAIN-KEYWORD,hm,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY 
-# > apps update
+# > apple store
 DOMAIN,p14-buy.itunes.apple.com,PROXY
 DOMAIN,p48-buy.itunes.apple.com,PROXY
 # > 机场
 DOMAIN-SUFFIX,928.plus,PROXY
 DOMAIN-SUFFIX,yoyu.dev,PROXY
 DOMAIN-SUFFIX,yoyu.ltd,PROXY
+DOMAIN-KEYWORD,yoyu,PROXY
 DOMAIN-SUFFIX,nyancat.info,PROXY
 DOMAIN-SUFFIX,nyancat.net,PROXY
 DOMAIN-SUFFIX,ytoo.li,PROXY
 DOMAIN-SUFFIX,conair.me,PROXY
 
-#--------------#
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> #
 # (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
