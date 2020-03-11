@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,pixpv.net,PROXY
 DOMAIN,aax-fe.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,pximg.net,PROXY
 DOMAIN-SUFFIX,fivecdm.com,PROXY
+# > google 
+DOMAIN-SUFFIX,app-measurement.com,PROXY
 # > chaos
 DOMAIN-KEYWORD,axax,PROXY
 DOMAIN-KEYWORD,bxbx,PROXY
