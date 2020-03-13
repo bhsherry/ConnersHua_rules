@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,nyancat.info,PROXY
 DOMAIN-SUFFIX,nyancat.net,PROXY
 DOMAIN-SUFFIX,ytoo.li,PROXY
 DOMAIN-SUFFIX,conair.me,PROXY
+DOMAIN-SUFFIX,rabbitairlines.com,PROXY
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> #
 # (DNS Cache Pollution Protection)
