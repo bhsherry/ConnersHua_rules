@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
 # > forest
 DOMAIN-SUFFIX,forestapp.cc,PROXY
-# > adblock for safari
+# > adblock for safari update rules
 DOMAIN-SUFFIX,adblockcdn.com,PROXY
 DOMAIN-SUFFIX,getadblock.com,PROXY
 # > moegirl
@@ -16,19 +16,17 @@ DOMAIN,aax-fe.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,pximg.net,PROXY
 DOMAIN-SUFFIX,fivecdm.com,PROXY
 # > google 
-DOMAIN-SUFFIX,app-measurement.com,PROXY
-# > chaos
-DOMAIN-KEYWORD,axax,PROXY
-DOMAIN-KEYWORD,bxbx,PROXY
-DOMAIN-KEYWORD,limbopro,PROXY
-DOMAIN-KEYWORD,wikimedia,PROXY
-DOMAIN-KEYWORD,wikipedia,PROXY
-DOMAIN-KEYWORD,notion,PROXY
-DOMAIN-KEYWORD,hm,PROXY
+#DOMAIN-SUFFIX,app-measurement.com,PROXY
+# > notion
+DOMAIN-SUFFIX,notion.so,PROXY
+# > v2ex
 DOMAIN-SUFFIX,v2ex.com,PROXY 
-# > apple store
+# > aws
+DOMAIN-SUFFIX,amazonaws.com,PROXY
+# > apple store update apps
 DOMAIN,p14-buy.itunes.apple.com,PROXY
 DOMAIN,p48-buy.itunes.apple.com,PROXY
+
 # > 机场
 DOMAIN-SUFFIX,928.plus,PROXY
 DOMAIN-SUFFIX,yoyu.dev,PROXY
@@ -572,7 +570,6 @@ DOMAIN-SUFFIX,newsblur.com,PROXY
 DOMAIN-SUFFIX,now.im,PROXY
 DOMAIN-SUFFIX,nowe.com,PROXY
 DOMAIN-SUFFIX,redditlist.com,PROXY
-DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,signal.org,PROXY
 DOMAIN-SUFFIX,smartmailcloud.com,PROXY
 DOMAIN-SUFFIX,sparknotes.com,PROXY
