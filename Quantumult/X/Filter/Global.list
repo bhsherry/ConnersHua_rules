@@ -1,5 +1,7 @@
 # > ao3
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
+# > forest
+DOMAIN-SUFFIX,forestapp.cc,PROXY
 # > adblock for safari
 DOMAIN-SUFFIX,adblockcdn.com,PROXY
 DOMAIN-SUFFIX,getadblock.com,PROXY
