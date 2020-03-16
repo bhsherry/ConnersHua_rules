@@ -22,7 +22,7 @@
 - DOMAIN-SUFFIX,live.net,PROXY
 - DOMAIN-SUFFIX,office.com,PROXY
 - DOMAIN-SUFFIX,office.net,PROXY
-
+- DOMAIN-SUFFIX,skype.com,PROXY
 
 # > Facebook
 - DOMAIN-SUFFIX,cdninstagram.com,PROXY
