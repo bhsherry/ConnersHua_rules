@@ -1,6 +1,6 @@
 # Unbreak
   # > Google
-  - DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
   - DOMAIN,dl.google.com,DIRECT
-  - DOMAIN,mtalk.google.com,DIRECT
-  - DOMAIN,safebrowsing.googleapis.com,DIRECT
+  - DOMAIN-SUFFIX,googletraveladservices.com,PROXY  
+  - DOMAIN,mtalk.google.com,PROXY
+  - DOMAIN,safebrowsing.googleapis.com,PROXY
