@@ -217,7 +217,10 @@ DOMAIN,d2anahhhmp1ffz.cloudfront.net,GlobalMedia
 DOMAIN,dfp6rglgjqszk.cloudfront.net,GlobalMedia
 # > YouTube
 USER-AGENT,com.google.ios.youtube*,GlobalMedia
+USER-AGENT,*youtube*,GlobalMedia
 USER-AGENT,YouTube*,GlobalMedia
 DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
 DOMAIN-SUFFIX,youtube.com,GlobalMedia
 DOMAIN,youtubei.googleapis.com,GlobalMedia
+DOMAIN-SUFFIX,gvt2.com,GlobalMedia
+DOMAIN-SUFFIX,youtu.be,GlobalMedia
