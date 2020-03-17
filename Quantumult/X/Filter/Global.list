@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,amazonaws.com,PROXY
 DOMAIN,p14-buy.itunes.apple.com,PROXY
 DOMAIN,p48-buy.itunes.apple.com,PROXY
 # > maxmind update GeoIP
-DOMAINF-SUFFIX,maxmind.com,PROXY
+DOMAIN-SUFFIX,maxmind.com,PROXY
 # > 机场
 DOMAIN-SUFFIX,928.plus,PROXY
 DOMAIN-SUFFIX,yoyu.dev,PROXY
