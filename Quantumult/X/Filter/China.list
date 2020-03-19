@@ -111,16 +111,6 @@ DOMAIN-SUFFIX,mi-img.com,DIRECT
 DOMAIN-SUFFIX,miui.com,DIRECT
 DOMAIN-SUFFIX,miwifi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.com,DIRECT
-# > Microsoft
-DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,msecnd.net,DIRECT
-DOMAIN-SUFFIX,office365.com,DIRECT
-DOMAIN-SUFFIX,outlook.com,DIRECT
-DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-DOMAIN-SUFFIX,visualstudio.com,DIRECT
-DOMAIN-SUFFIX,windows.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
 # > NetEase
 USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
