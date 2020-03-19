@@ -106,6 +106,15 @@ DOMAIN-SUFFIX,ytimg.com,PROXY
 # > Microsoft
 DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,xboxlive.com,PROXY
+DOMAIN-SUFFIX,microsoft.com,PROXY
+DOMAIN-SUFFIX,msecnd.net,PROXY
+DOMAIN-SUFFIX,office365.com,PROXY
+DOMAIN-SUFFIX,outlook.com,PROXY
+DOMAIN-SUFFIX,s-microsoft.com,PROXY
+DOMAIN-SUFFIX,visualstudio.com,PROXY
+DOMAIN-SUFFIX,windows.com,PROXY
+DOMAIN-SUFFIX,windowsupdate.com,PROXY
+DOMAIN,officecdn-microsoft-com.akamaized.net,PROXY
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,fb.com,PROXY
