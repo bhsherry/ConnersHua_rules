@@ -23,9 +23,6 @@ DOMAIN-SUFFIX,notion.so,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY 
 # > aws
 DOMAIN-SUFFIX,amazonaws.com,PROXY
-# > apple store update apps
-DOMAIN,p14-buy.itunes.apple.com,PROXY
-DOMAIN,p48-buy.itunes.apple.com,PROXY
 # > maxmind update GeoIP
 DOMAIN-SUFFIX,maxmind.com,PROXY
 # > 机场
