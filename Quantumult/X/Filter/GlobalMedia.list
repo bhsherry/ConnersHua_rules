@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,tidal.com,GlobalMedia
 USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
 USER-AGENT,YouTubeMusic*,GlobalMedia
 # (Video)
+# > 樱花动漫
+DOMAIN-SUFFIX,yhdm.tv,GlobalMedia
 # > All4
 USER-AGENT,All4*,GlobalMedia
 DOMAIN-SUFFIX,c4assets.com,GlobalMedia
