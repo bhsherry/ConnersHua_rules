@@ -1,5 +1,7 @@
 # > ao3
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
+# > appstore update apps
+DOMAIN-SUFFIX,p48-buy.itunes.apple.com,PROXY
 # > forest
 DOMAIN-SUFFIX,forestapp.cc,PROXY
 # > adblock for safari update rules
