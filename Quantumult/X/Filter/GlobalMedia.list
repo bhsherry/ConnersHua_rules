@@ -1,4 +1,16 @@
-# (GlobalMedia)
+# (GlobalMedia and some huge traffic needs)
+# > aws
+DOMAIN-SUFFIX,amazon.com,GlobalMedia
+DOMAIN-SUFFIX,amazonaws.com,GlobalMedia
+DOMAIN-SUFFIX,media-amazon.com,GlobalMedia
+# > Google Scholar
+DOMAIN-SUFFIX,scholar.google.com,GlobalMedia
+# > 樱花动漫
+DOMAIN-SUFFIX,yhdm.tv,GlobalMedia
+# > IMDB
+DOMAIN-SUFFIX,imdb.com,GlobalMedia
+DOMAIN-SUFFIX,imdbws.com,GlobalMedia
+
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*,GlobalMedia
