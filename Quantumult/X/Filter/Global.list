@@ -23,8 +23,6 @@ DOMAIN-SUFFIX,fivecdm.com,PROXY
 DOMAIN-SUFFIX,notion.so,PROXY
 # > v2ex
 DOMAIN-SUFFIX,v2ex.com,PROXY 
-# > aws
-DOMAIN-SUFFIX,amazonaws.com,PROXY
 # > maxmind update GeoIP
 DOMAIN-SUFFIX,maxmind.com,PROXY
 # > 机场
