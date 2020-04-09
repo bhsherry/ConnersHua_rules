@@ -1,5 +1,12 @@
 # Global Area Network
+# > Google Scholar,fix client does not have permission
+- DOMAIN-SUFFIX,scholar.google.com,GlobalMedia
+# 字幕站
+- DOMAIN-KEYWORD,subhd,GlobalMedia
 # (GlobalMedia)
+# > 樱花动漫
+- DOMAIN-SUFFIX,yhdm.tv,GlobalMedia
+  
 # (Music)
 # > Deezer
 # USER-AGENT,Deezer*,GlobalMedia
