@@ -1,7 +1,5 @@
 # > ao3
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
-# > appstore update apps
-DOMAIN-SUFFIX,p48-buy.itunes.apple.com,PROXY
 # > forest
 DOMAIN-SUFFIX,forestapp.cc,PROXY
 # > adblock for safari update rules
@@ -37,6 +35,12 @@ DOMAIN-SUFFIX,ytoo.li,PROXY
 DOMAIN-SUFFIX,conair.me,PROXY
 DOMAIN-SUFFIX,rabbitairlines.com,PROXY
 
+# > apple
+DOMAIN-SUFFIX,p48-buy.itunes.apple.com,PROXY
+DOMAIN,gsa.apple.com,PROXY  
+DOMAIN,smp-device-content.apple.com,PROXY
+DOMAIN,gsp-64-ssl.ls.app.com, PROXY
+DOMAIN,22-courier.push.apple.com,PROXY
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> #
 # (DNS Cache Pollution Protection)
 # > Google
