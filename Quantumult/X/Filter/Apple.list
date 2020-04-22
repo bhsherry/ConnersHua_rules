@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,icloud.com,Apple
 DOMAIN-SUFFIX,icloud-content.com,Apple
 DOMAIN-SUFFIX,itunes.com,Apple
 DOMAIN-SUFFIX,me.com,Apple
+DOMAIN,ocsp.digicert.com,Apple
 #APPLE STORE
 DOMAIN-SUFFIX,mzstatic.com,Apple
 user-agent, com.apple.appstored*,Apple
