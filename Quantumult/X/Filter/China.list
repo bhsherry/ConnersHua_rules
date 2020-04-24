@@ -1,8 +1,5 @@
 
 # China Area Network
-# > 今日热榜
-DOMAIN-SUFFIX,tophub.today,DIRECT
-
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
