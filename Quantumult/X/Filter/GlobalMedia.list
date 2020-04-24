@@ -1,4 +1,5 @@
 # (GlobalMedia and some huge traffic needs)
+DOMAIN-SUFFIX,tophub.today,GlobalMedia 
 # > aws
 DOMAIN-SUFFIX,amazon.com,GlobalMedia
 DOMAIN-SUFFIX,amazonaws.com,GlobalMedia
