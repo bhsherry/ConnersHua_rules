@@ -1,3 +1,16 @@
+# update adblock filters
+# > adblock规则
+DOMAIN-SUFFIX,adblockplus.org,PROXY  
+# > ublock origin (some host are not sure)
+DOMAIN-SUFFIX,adtidy.org,PROXY
+DOMAIN-SUFFIX,someonewhocares.org,PROXY
+DOMAIN-SUFFIX,easylist.to,PROXY
+DOMAIN-SUFFIX,fanboy.co.nz,PROXY
+DOMAIN-SUFFIX,hosts-file.net,PROXY
+DOMAIN,mirror.cedia.org.ec,PROXY
+DOMAIN-SUFFIX,gitcdn.xyz,PROXY
+# > Tampermonkey
+DOMAIN-SUFFIX,greasyfork.org,PROXY
 # > IMDB
 DOMAIN-SUFFIX,imdb.com,PROXY
 # > ao3
