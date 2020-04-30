@@ -1,3 +1,5 @@
+# > IMDB
+DOMAIN-SUFFIX,imdb.com,PROXY
 # > ao3
 DOMAIN-SUFFIX,archiveofourown.org,PROXY
 # > forest
@@ -15,8 +17,6 @@ DOMAIN-SUFFIX,pixpv.net,PROXY
 DOMAIN,aax-fe.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,pximg.net,PROXY
 DOMAIN-SUFFIX,fivecdm.com,PROXY
-# > google 
-#DOMAIN-SUFFIX,app-measurement.com,PROXY
 # > notion
 DOMAIN-SUFFIX,notion.so,PROXY
 # > v2ex
