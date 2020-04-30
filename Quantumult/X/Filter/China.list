@@ -1,5 +1,22 @@
 
 # China Area Network
+# > 超星
+DOMAIN-SUFFIX,chaoxing.com,DIRECT
+# > mooc
+DOMAIN-SUFFIX,icourse163.org,DIRECT
+# > CN
+DOMAIN-KEYWORD,cn,DIRECT
+# > 奈飞影视
+DOMAIN-SUFFIX,nfmovies.com,DIRECT
+# > 智慧树
+DOMAIN-SUFFIX,zhihuishu.com,DIRECT
+# > 政府网站
+DOMAIN-SUFFIX,gov.cn,DIRECT
+# > 简书
+DOMAIN-SUFFIX,jianshu.com,DIRECT
+# > CSDN
+DOMAIN-SUFFIX,csdn.net,DIRECT
+
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
